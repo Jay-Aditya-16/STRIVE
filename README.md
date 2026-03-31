@@ -200,3 +200,7 @@ Founder, Sentrix Labs
 
 STRIVE explores a shift from perception-driven systems toward reasoning-driven systems, where artificial intelligence is capable of interpreting relationships, context, and meaning within complex environments.
 
+
+<img width="2245" height="1587" alt="Research Poster in Blue   Gold Simple Style" src="https://github.com/user-attachments/assets/8ef3dd0b-0394-4427-bf76-b12de7ad15ea" />
+
+
